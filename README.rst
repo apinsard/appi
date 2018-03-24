@@ -4,7 +4,7 @@ appi
 
 Another Portage Python Interface
 
-|rtd0.2| |ci| |coverage|
+|rtd0.3| |ci| |coverage|
 
 Why not `portage`?
 ------------------
@@ -96,16 +96,16 @@ Contributing
 
 See `Contributing`_ page.
 
-.. _`Contributing`: https://gitlab.com/apinsard/appi/blob/0.2/CONTRIBUTING.rst
+.. _`Contributing`: https://gitlab.com/apinsard/appi/blob/0.3/CONTRIBUTING.rst
 
-.. |rtd0.2| image:: https://readthedocs.org/projects/appi/badge/?version=0.2
+.. |rtd0.3| image:: https://readthedocs.org/projects/appi/badge/?version=0.3
     :alt: Documentation Status
-    :target: http://appi.readthedocs.io/en/0.2/?badge=0.2
+    :target: http://appi.readthedocs.io/en/0.3/?badge=0.3
 
-.. |ci| image:: https://gitlab.com/apinsard/appi/badges/0.2/pipeline.svg
+.. |ci| image:: https://gitlab.com/apinsard/appi/badges/0.3/pipeline.svg
     :alt: Pipeline Status
-    :target: https://gitlab.com/apinsard/appi/commits/0.2
+    :target: https://gitlab.com/apinsard/appi/commits/0.3
 
-.. |coverage| image:: https://gitlab.com/apinsard/appi/badges/0.2/coverage.svg
+.. |coverage| image:: https://gitlab.com/apinsard/appi/badges/0.3/coverage.svg
     :alt: Coverage Report
-    :target: https://gitlab.com/apinsard/appi/commits/0.2
+    :target: https://gitlab.com/apinsard/appi/commits/0.3
